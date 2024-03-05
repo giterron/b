@@ -35,7 +35,6 @@
                 "欧美动漫"
             ]
         },
-
  {"key": "csp_xml_新浪",
             "name": "🎦新浪┃2K",
             "type": 1,
@@ -76,8 +75,7 @@
         },
 
 	
- {
-            "key": "csp_xml_红牛",
+ {"key": "csp_xml_红牛",
             "name": "🎦红牛┃2K",
             "type": 1,
             "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
@@ -120,12 +118,10 @@
                 "欧美综艺"
             ]
         }
-	
 	],
 "lives":[{
       "name": "直播",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/giterron/b/main/b.txt",
-      
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/giterron/b/main/b.txt"
     }
 ]}
