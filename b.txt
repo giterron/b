@@ -24,12 +24,6 @@ KBS-STORY,http://mytv.dothome.co.kr/ch/catv/4.php
 KBS-LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
 KBS-KIDS,http://mytv.dothome.co.kr/ch/catv/6.php
 KBS-JOY,http://mytv.dothome.co.kr/ch/catv/3.php
-KBS1-충남,http://mytv.dothome.co.kr/ch/public/11.php
-KBS1-전남,http://mytv.dothome.co.kr/ch/public/12.php
-KBS1-경북,http://mytv.dothome.co.kr/ch/public/13.php
-KBS1-울산,http://mytv.dothome.co.kr/ch/public/14.php
-KBS1-부산,http://mytv.dothome.co.kr/ch/public/15.php
-KBS1-강원,http://mytv.dothome.co.kr/ch/public/16.php
 
 KBS-NEWS,https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
 KBS-WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
