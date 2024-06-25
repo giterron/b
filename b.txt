@@ -30,17 +30,24 @@ KBS1-경북,http://mytv.dothome.co.kr/ch/public/13.php
 KBS1-울산,http://mytv.dothome.co.kr/ch/public/14.php
 KBS1-부산,http://mytv.dothome.co.kr/ch/public/15.php
 KBS1-강원,http://mytv.dothome.co.kr/ch/public/16.php
+
 KBS-NEWS,https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
 KBS-WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 KBS1,https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
 KBS2,https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
 KBS1-부산,https://code.vthanhtivi.pw/getlink/kbs/10_11/playlist.m3u8
-KBS1-,https://code.vthanhtivi.pw/getlink/kbs/20_11/playlist.m3u8
-KBS1--,https://code.vthanhtivi.pw/getlink/kbs/50_11/playlist.m3u8
+KBS1-경남,https://code.vthanhtivi.pw/getlink/kbs/20_11/playlist.m3u8
+KBS1-전북,https://code.vthanhtivi.pw/getlink/kbs/50_11/playlist.m3u8
 KBS1-전남,https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8
 KBS1-울산,https://code.vthanhtivi.pw/getlink/kbs/11_11/playlist.m3u8
 KBS1-충남,https://code.vthanhtivi.pw/getlink/kbs/40_11/playlist.m3u8
 KBS1-대구,https://code.vthanhtivi.pw/getlink/kbs/30_11/playlist.m3u8
+KBS1-충남,http://mytv.dothome.co.kr/ch/public/11.php
+KBS1-전남,http://mytv.dothome.co.kr/ch/public/12.php
+KBS1-경북,http://mytv.dothome.co.kr/ch/public/13.php
+KBS1-울산,http://mytv.dothome.co.kr/ch/public/14.php
+KBS1-부산,http://mytv.dothome.co.kr/ch/public/15.php
+KBS1-강원,http://mytv.dothome.co.kr/ch/public/16.php
 
 KCTV,http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
