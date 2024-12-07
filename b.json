@@ -1,7 +1,9 @@
 {
-"sites":
-		[	
-  {"key": "文采","name": "文采┃影视","type": 3,"api": "csp_Jpys", "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/aHoxLmphcg==?isDownload=true","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1    },
+
+
+"sites":[ 
+    
+    
     {"key": "热播影视",
             "name": "热播┃影视",
             "type": 3,
@@ -57,10 +59,10 @@
           
         },
 
-  
+      {"key": "文采","name": "文采┃影视","type": 3,"api": "csp_Jpys", "jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1    },
 
 
-{"key":"暴风采集","name":"🚄BF影音","type":1,"api":"https://app.bfzyapi.com/api.php/provide/vod/","playUrl":"","categories":["国产剧","韩剧","国产动漫","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]},	
+{"key":"暴风采集","name":"🚄BF影音","type":1,"api":"https://app.bfzyapi.com/api.php/provide/vod/","categories":["国产剧","韩剧","国产动漫","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]},	
 
 
 {
@@ -72,7 +74,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar": "http: //rihou.vip:55/lib/ttkx.jar",
-            "playurl": "json:https://www.ikdmjx.com/?url=",
             "categories": [
                 "韩剧",
                 "动作片",
@@ -105,10 +106,10 @@
             ]
         },
 
-{"key": "高清资源网","name": "🎦️高清┃2K","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+{"key": "高清资源网","name": "🎦️高清┃2K","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php","searchable": 1,"quickSearch": 1,"filterable": 1,
             "categories": [
+                "韩国剧",
                 "国产剧",
-		        "韩国剧",
 		        "动作片",
                 "喜剧片",
                 "爱情片",
@@ -140,7 +141,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
       "categories": [
         "国产剧",
         "韩国剧",
@@ -159,16 +159,18 @@
       ]
     },
 	
- {"key": "csp_非凡资源","name": "🥗┃非凡┃资源","type": 1,"api": "http://ffzy1.tv/api.php/provide/vod/","playurl": "json:http://jx.84jia.com/m3u8ts.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧",  "韩国剧", "动作片",  "喜剧片",  "科幻片",  "恐怖片",  "爱情片",  "剧情片",  "战争片",  "记录片",   "欧美剧",  "香港剧",    "台湾剧",  "日本剧",  "海外剧",  "泰国剧",  "国产动漫",  "日韩动漫",  "欧美动漫",  "港台动漫",  "海外动漫",  "大陆综艺",  "港台综艺",  "日韩综艺",  "欧美综艺"]},
+ {"key": "csp_非凡资源","name": "🥗┃非凡┃资源","type": 1,"api": "http://ffzy1.tv/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧",  "韩国剧", "动作片",  "喜剧片",  "科幻片",  "恐怖片",  "爱情片",  "剧情片",  "战争片",  "记录片",   "欧美剧",  "香港剧",    "台湾剧",  "日本剧",  "海外剧",  "泰国剧",  "国产动漫",  "日韩动漫",  "欧美动漫",  "港台动漫",  "海外动漫",  "大陆综艺",  "港台综艺",  "日韩综艺",  "欧美综艺"]},
  
  
   {"key": "虎牙","name": "🐯虎牙采集","type": 1,"api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable": 1,"quickSearch": 1,"categories": [  "内地剧", "韩剧", "动作片",  "科幻片",  "战争片",  "喜剧片",  "爱情片",  "恐怖片",  "犯罪片",  "剧情片",  "冒险片",  "记录片",    "香港剧",  "台湾剧",  "欧美剧",  "日剧",  "马泰剧",  "体育赛事",  "综艺",  "动画片",  "中国动漫",  "日本动漫",  "欧美动漫"]}
+
 ],
 
 
-"lives":[{
+    "lives": [
+        {
       "name": "直播",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/giterron/b/refs/heads/main/b.txt"
+      "url": ""
     }
 ]}
